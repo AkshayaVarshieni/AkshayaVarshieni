@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AkshayaVarshieni
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 📫 How to reach me -akshayavarshieni.g2021@kgkite.ac.in
 
 <!---
